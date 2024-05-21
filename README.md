@@ -7,7 +7,6 @@ This project is a replica of the home page of Motion Art Effect website. The goa
 - [Tech Stack](#tech-stack)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
 
 ## Tech Stack
 
