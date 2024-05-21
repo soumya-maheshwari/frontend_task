@@ -33,10 +33,10 @@ https://github.com/soumya-maheshwari/frontend_task.git
 2. Navigate into the project directory:
    
 ```bash
-   cd frontend_task
+cd frontend_task
 ```
 3. Install dependencies:
    
 ```bash
-   npm install
+npm install
 ```
